@@ -1,7 +1,7 @@
-# Deploy Microservices Application
+# Deploy Microservices Application Using Helm Chart
 
 ## **Project Overview**
-**Online Boutique** is a cloud-first microservices demo application. Online Boutique consists of an 11-tier microservices application. The application is a web-based e-commerce app where users can browse items,
+**Online Boutique** is a cloud-first microservices demo application deployed using Helm Chart. Online Boutique consists of an 11-tier microservices application. The application is a web-based e-commerce app where users can browse items,
 add them to the cart, and purchase them. 
 
 ---
