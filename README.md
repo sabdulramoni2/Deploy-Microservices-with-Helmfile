@@ -10,3 +10,7 @@ add them to the cart, and purchase them.
 - Created “microservices” Helm Chart
 - Created values.yaml files for each microservice
 - Created “redis” Helm Chart and values file for it
+- Deployed Microservices Application with “helm install”
+- Created Helmfile
+- Installed Helmfile
+- Deployed Helm Charts with Helmfile
