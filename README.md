@@ -14,6 +14,7 @@ add them to the cart, and purchase them.
 - Created Helmfile
 - Installed Helmfile
 - Deployed Helm Charts with Helmfile
+- Accessed Online Shop with Browser
 
   ## **Features**
 - Created “microservices” Helm Chart
