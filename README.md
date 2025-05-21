@@ -16,7 +16,7 @@ add them to the cart, and purchase them.
 - Deployed Helm Charts with Helmfile
 - Accessed Online Shop with Browser
 
-  ## **Features**
+  ## **Diagrammatic Presentation**
 - Created “microservices” Helm Chart
 - Created values.yaml files for each microservice
 - Created “redis” Helm Chart and values file for it
